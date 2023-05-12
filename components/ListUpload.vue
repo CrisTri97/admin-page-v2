@@ -1,6 +1,6 @@
 <template>
   <div class="center-x upload-container">
-    <vs-upload  class="upload-item" action="https://jsonplaceholder.typicode.com/posts/" @on-success="successUpload" 
+    <vs-upload  class="upload-item" name='photos[]' action="https://jsonplaceholder.typicode.com/posts/" @on-success="successUpload" 
     />
   </div>
 </template>

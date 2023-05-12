@@ -16,6 +16,7 @@
   "dependencies": {
     "boxicons": "^2.1.4",
     "core-js": "^3.25.3",
+    "material-icons": "^1.13.6",
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
